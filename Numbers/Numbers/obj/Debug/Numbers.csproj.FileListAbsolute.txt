@@ -1,0 +1,7 @@
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Numbers\Numbers\obj\Debug\Numbers.csprojAssemblyReference.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Numbers\Numbers\obj\Debug\Numbers.pdb

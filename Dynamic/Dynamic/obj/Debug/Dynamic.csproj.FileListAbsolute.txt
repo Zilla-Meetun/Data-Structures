@@ -1,0 +1,7 @@
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Dynamic\Dynamic\obj\Debug\Dynamic.csprojAssemblyReference.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Dynamic\Dynamic\obj\Debug\Dynamic.pdb

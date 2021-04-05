@@ -1,0 +1,14 @@
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BSTree\BSTree\obj\Debug\BSTree.csprojAssemblyReference.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BSTree\BSTree\obj\Debug\BSTree.csproj.CoreCompileInputs.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BSTree\BSTree\bin\Debug\BSTree.exe.config
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BSTree\BSTree\bin\Debug\BSTree.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BSTree\BSTree\bin\Debug\BSTree.pdb
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BSTree\BSTree\obj\Debug\BSTree.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BSTree\BSTree\obj\Debug\BSTree.pdb
+C:\Users\zilla\OneDrive\Documents\Education\2018-2019\Algorithms and Data Structures\BSTree\BSTree\bin\Debug\BSTree.exe.config
+C:\Users\zilla\OneDrive\Documents\Education\2018-2019\Algorithms and Data Structures\BSTree\BSTree\bin\Debug\BSTree.exe
+C:\Users\zilla\OneDrive\Documents\Education\2018-2019\Algorithms and Data Structures\BSTree\BSTree\bin\Debug\BSTree.pdb
+C:\Users\zilla\OneDrive\Documents\Education\2018-2019\Algorithms and Data Structures\BSTree\BSTree\obj\Debug\BSTree.csprojAssemblyReference.cache
+C:\Users\zilla\OneDrive\Documents\Education\2018-2019\Algorithms and Data Structures\BSTree\BSTree\obj\Debug\BSTree.csproj.CoreCompileInputs.cache
+C:\Users\zilla\OneDrive\Documents\Education\2018-2019\Algorithms and Data Structures\BSTree\BSTree\obj\Debug\BSTree.exe
+C:\Users\zilla\OneDrive\Documents\Education\2018-2019\Algorithms and Data Structures\BSTree\BSTree\obj\Debug\BSTree.pdb

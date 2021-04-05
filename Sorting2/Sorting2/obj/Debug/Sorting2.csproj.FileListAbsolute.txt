@@ -1,0 +1,14 @@
+C:\Users\ZillyMee\source\repos\Sorting2\Sorting2\obj\Debug\Sorting2.csprojAssemblyReference.cache
+C:\Users\ZillyMee\source\repos\Sorting2\Sorting2\obj\Debug\Sorting2.csproj.CoreCompileInputs.cache
+C:\Users\ZillyMee\source\repos\Sorting2\Sorting2\bin\Debug\Sorting2.exe.config
+C:\Users\ZillyMee\source\repos\Sorting2\Sorting2\bin\Debug\Sorting2.exe
+C:\Users\ZillyMee\source\repos\Sorting2\Sorting2\bin\Debug\Sorting2.pdb
+C:\Users\ZillyMee\source\repos\Sorting2\Sorting2\obj\Debug\Sorting2.exe
+C:\Users\ZillyMee\source\repos\Sorting2\Sorting2\obj\Debug\Sorting2.pdb
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Sorting2\Sorting2\bin\Debug\Sorting2.exe.config
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Sorting2\Sorting2\bin\Debug\Sorting2.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Sorting2\Sorting2\bin\Debug\Sorting2.pdb
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Sorting2\Sorting2\obj\Debug\Sorting2.csprojAssemblyReference.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Sorting2\Sorting2\obj\Debug\Sorting2.csproj.CoreCompileInputs.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Sorting2\Sorting2\obj\Debug\Sorting2.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Sorting2\Sorting2\obj\Debug\Sorting2.pdb

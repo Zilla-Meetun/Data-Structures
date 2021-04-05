@@ -1,0 +1,2 @@
+C:\Users\ZillyMee\source\repos\Graphs\Graphs\obj\Debug\Graphs.csprojAssemblyReference.cache
+C:\Users\ZillyMee\source\repos\Graphs\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache

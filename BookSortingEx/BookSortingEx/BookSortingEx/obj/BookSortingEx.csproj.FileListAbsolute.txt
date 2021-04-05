@@ -1,0 +1,5 @@
+Z:\Teaching\SDandDS\Code Attempts\BookSortingEx\BookSortingEx\obj\Debug\ResolveAssemblyReference.cache
+Z:\Teaching\SDandDS\Code Attempts\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.exe
+Z:\Teaching\SDandDS\Code Attempts\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.pdb
+Z:\Teaching\SDandDS\Code Attempts\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.exe
+Z:\Teaching\SDandDS\Code Attempts\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.pdb

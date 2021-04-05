@@ -1,0 +1,7 @@
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BinartTree\BinartTree\obj\Debug\BinartTree.csprojAssemblyReference.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BinartTree\BinartTree\obj\Debug\BinartTree.csproj.CoreCompileInputs.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BinartTree\BinartTree\bin\Debug\BinartTree.exe.config
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BinartTree\BinartTree\bin\Debug\BinartTree.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BinartTree\BinartTree\bin\Debug\BinartTree.pdb
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BinartTree\BinartTree\obj\Debug\BinartTree.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\BinartTree\BinartTree\obj\Debug\BinartTree.pdb

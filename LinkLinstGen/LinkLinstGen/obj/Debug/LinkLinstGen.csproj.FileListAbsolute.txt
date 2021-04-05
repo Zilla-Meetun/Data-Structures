@@ -1,0 +1,7 @@
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\LinkLinstGen\LinkLinstGen\obj\Debug\LinkLinstGen.csprojAssemblyReference.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\LinkLinstGen\LinkLinstGen\obj\Debug\LinkLinstGen.csproj.CoreCompileInputs.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\LinkLinstGen\LinkLinstGen\bin\Debug\LinkLinstGen.exe.config
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\LinkLinstGen\LinkLinstGen\bin\Debug\LinkLinstGen.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\LinkLinstGen\LinkLinstGen\bin\Debug\LinkLinstGen.pdb
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\LinkLinstGen\LinkLinstGen\obj\Debug\LinkLinstGen.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\LinkLinstGen\LinkLinstGen\obj\Debug\LinkLinstGen.pdb

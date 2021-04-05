@@ -1,0 +1,7 @@
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Libray\Libray\obj\Debug\Libray.csprojAssemblyReference.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Libray\Libray\obj\Debug\Libray.csproj.CoreCompileInputs.cache
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Libray\Libray\bin\Debug\Libray.exe.config
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Libray\Libray\bin\Debug\Libray.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Libray\Libray\bin\Debug\Libray.pdb
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Libray\Libray\obj\Debug\Libray.exe
+C:\Users\ZillyMee\Documents\My Work\2018-2019\Algorithms and Data Structures\Libray\Libray\obj\Debug\Libray.pdb
